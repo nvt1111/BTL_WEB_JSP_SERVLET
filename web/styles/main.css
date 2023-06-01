@@ -1,0 +1,40 @@
+.dnhap{
+	width: 300px;
+	height: 300px;
+	border: 1px solid grey;
+	border-radius: 10px;
+	text-align: center;
+	margin: 50px auto;
+        background-color: #DDDDDD;
+}
+h2{
+	color: black;
+	font-family: sans-serif;
+}
+.dnhap .mail1{text-align: left;
+    padding-right:  22px;
+}
+.dnhap #mk{
+    text-align: left;
+}
+.dnhap input{
+	width: 200px;
+	height: 40px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	border: 1px solid grey;
+	padding-left: 20px;
+        /*border-bottom: 300px;*/
+}
+.dnhap #btn{
+	width: 220px;
+	height: 40px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	border:none;
+	background-color: #45a049;
+	color: white;
+}
+.dnhap button:hover{
+	font-size: 15px;
+}
